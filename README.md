@@ -12,6 +12,9 @@ This repository contains an R script implementation and results for analyzing yi
 
 ### Key Findings
 
+![image](https://github.com/user-attachments/assets/02d8f710-8cfc-4cab-9f44-b5ccd13aa0b1)
+![image](https://github.com/user-attachments/assets/4b19e45b-2025-44f3-a723-55a6571bf6f6)
+
 - Excess returns across different maturities exhibit cyclical patterns.
 - No significant divergence in excess returns pre-2003 vs. post-2003.
 - A single predictive factor appears to persist over time.
